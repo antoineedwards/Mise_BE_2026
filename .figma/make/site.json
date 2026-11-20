@@ -1,0 +1,10 @@
+{
+  "description": "Helps independent businesses forecast demand, manage inventory, and review or adjust replenishment orders a week before dispatch to prevent stockouts and protect cash flow.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
